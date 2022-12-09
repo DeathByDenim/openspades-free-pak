@@ -1,0 +1,19 @@
+on: [push]
+name: Package
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v3
+      - name: Zip into pak file
+        run: |
+          zip -r pak001-Free.pak Gfx/ License/ Models/ Sounds/
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Assets"
+          files: |
+            pak001-Free.pak
