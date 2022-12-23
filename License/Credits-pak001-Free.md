@@ -28,18 +28,18 @@ All sounds have been obtained from Public Domain resources.
 | Sounds/Player/Footstep8.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (grass/7.ogg) | CC-BY 3.0 | congusbongus |
 | Sounds/Player/Jump.opus | <https://opengameart.org/content/cloth-swing-sounds> | CC-BY 3.0 | Vinrax |
 | Sounds/Player/Land.opus | <https://opengameart.org/content/jump-landing-sound> | CC0 | MentalSanityOff |
-| Sounds/Player/Run1.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/0.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run10.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/0.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run11.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/1.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run12.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/2.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run2.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/1.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run3.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/2.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run4.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/3.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run5.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/4.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run6.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/5.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run7.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/6.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run8.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/7.ogg) | CC-BY 3.0 | congusbongus |
-| Sounds/Player/Run9.opus | <https://opengameart.org/content/footsteps-on-different-surfaces> (boots/8.ogg) | CC-BY 3.0 | congusbongus |
+| Sounds/Player/Run1.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run10.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run11.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run12.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run2.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run3.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run4.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run5.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run6.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run7.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run8.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
+| Sounds/Player/Run9.opus | <https://freesound.org/people/Disagree/sounds/433725/> | CC-BY 4.0 | Disagree |
 | Sounds/Player/Wade1.opus | <https://freesound.org/people/Motion_S/sounds/221764/> | CC-BY 3.0 | Motion_S |
 | Sounds/Player/Wade2.opus | <https://freesound.org/people/Motion_S/sounds/221764/> | CC-BY 3.0 | Motion_S |
 | Sounds/Player/Wade3.opus | <https://freesound.org/people/Motion_S/sounds/221764/> | CC-BY 3.0 | Motion_S |
