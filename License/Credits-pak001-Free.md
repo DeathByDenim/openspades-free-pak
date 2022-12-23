@@ -51,7 +51,7 @@ All sounds have been obtained from Public Domain resources.
 | Sounds/Player/WaterJump.opus | <https://opengameart.org/content/water-splashes> (splash1.wav) | CC-BY 3.0 | Michel Baradari |
 | Sounds/Player/WaterLand.opus | <https://opengameart.org/content/water-splashes> (splash2.wav) | CC-BY 3.0 | Michel Baradari |
 | Sounds/Weapons/AimDownSightLocal.opus | <https://opengameart.org/content/equipment-clicks-iii> | CC0 | LFA |
-| Sounds/Weapons/Block/Build.opus | <https://opengameart.org/content/mechanical-sounds> (mechanical01.wav) | CC0 | BMacZero |
+| Sounds/Weapons/Block/Build.opus | <https://freesound.org/people/SieuAmThanh/sounds/530812/> | CC0 | SieuAmThanh |
 | Sounds/Weapons/Block/RaiseLocal.opus | <https://freesound.org/people/JamesCato101/sounds/542330/> | CC0 | JamesCato101 |
 | Sounds/Weapons/DryFire.opus | <https://opengameart.org/content/100-cc0-metal-and-wood-sfx> (misc_17) | CC0 | rubberduck |
 | Sounds/Weapons/Grenade/Bounce.opus | <https://opengameart.org/content/body-hitting-ground> | CC-BY 3.0 | dklon |
