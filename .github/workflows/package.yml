@@ -16,7 +16,7 @@ jobs:
           rm OpenSpadesDevPackage-r33.zip
           rm Nonfree/pak000-Nonfree.pak
           cp pak001-Free.pak Nonfree
-          cp License/Credits-pak001-Free.md Nonfree/LICENSE
+          cp License/Credits-pak001-Free.md Nonfree/LICENSE.md
           zip -r OpenSpadesDevPackage-r33.zip Nonfree OfficialMods
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
